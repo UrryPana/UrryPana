@@ -3,6 +3,14 @@
   <li>I'm a student.</li>
   <li>I'm interested in <strong>software development</strong>, <strong>game development </strong>, and <strong>web development</strong> using <strong>C#</strong> </li>
 </ul>
+<br>
+<h2>Things I'm studying now:</h2>
+<hr>
+<ul>
+<li>C# (still my focus as my main programming language)</li>
+<li>Blazor</li>
+<li>Monogame Framework</li>
+</ul>
 
 
 <!--
