@@ -1,7 +1,7 @@
 <h1>Greetings!</h1>
 <ul>
   <li>I'm a student.</li>
-  <li>I'm interested in <strong>software development</strong>, <strong>game development </strong>, and <strong>web development</strong>, and <strong>systems development</strong></li>
+  <li>I'm interested in <strong>software development</strong>, <strong>game development </strong>, <strong>web development</strong>, and <strong>systems development.</strong></li>
 </ul>
 <br>
 <h2>Things that I'm studying now:</h2>
