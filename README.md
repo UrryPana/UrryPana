@@ -10,6 +10,7 @@
   <li>C# </li>
   <li>Blazor</li>
   <li>Monogame Framework</li>
+  <li>C</li>
 </ul>
 
 
