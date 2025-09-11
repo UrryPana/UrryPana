@@ -19,6 +19,7 @@
   <li>RegEx and Excel</li>
   <li>Docker</li>
   <li>Linux + Bash</li>
+  <li>Photo Editing</li>
 </ul>
 
 
