@@ -7,15 +7,16 @@
 <h2>Things that I'm studying now:</h2>
 <h2><Languages/h2>
 <ul>
-  <li>Rust </li>
-  <li>Java </li>
-  <li>Python</li>
+  <li>Python </li>
+  <li>C# </li>
+  <li>SQL</li>
   <li>Javascript</li>
   <li>C</li>
 </ul>
 <h2>Other Stuffs</h2>
 <ul>
   <li>React + MUI3 </li>
+  <li>Rust, Go, Java </li>
   <li>RegEx and Excel</li>
   <li>Docker</li>
   <li>Linux + Bash</li>
