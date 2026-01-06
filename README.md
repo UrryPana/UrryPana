@@ -1,28 +1,28 @@
 <h1>Greetings!</h1>
 <ul>
   <li>I'm a student.</li>
-  <li>I'm interested in <strong>software development</strong>, <strong>game development </strong>, <strong>web development</strong>, and <strong>systems development.</strong></li>
+  <li>I'm interested in <strong>software development</strong>, <strong>DevOps</strong>, and <strong>Automation</strong>.</li>
 </ul>
 <br>
-<h2>Things that I'm studying now:</h2>
-<h2><Languages/h2>
+<!--<h2>Things that I'm studying now:</h2>-->
+<h2>Languages</h2>
 <ul>
   <li>Python </li>
   <li>C# </li>
   <li>SQL</li>
-  <li>Javascript</li>
-  <li>C</li>
+  <li>Bash/PS</li>
 </ul>
+<!--
 <h2>Other Stuffs</h2>
 <ul>
   <li>React + MUI3 </li>
-  <li>Rust, Go, Java </li>
+  <li>Rust, Golang, Java, C/C++, Lua, Javascript/Typescript</li>
   <li>RegEx and Excel</li>
   <li>Docker</li>
   <li>Linux + Bash</li>
   <li>Photo Editing</li>
 </ul>
-
+-->
 
 
 <!--
