@@ -8,9 +8,11 @@
 <h2>Languages</h2>
 <ul>
   <li>Python </li>
-  <li>C# </li>
+  <li>Java </li>
   <li>SQL</li>
+  <li>C</li>
   <li>Bash/PS</li>
+  <li>HTML/CSS/JS</li></li>
 </ul>
 <!--
 <h2>Other Stuffs</h2>
