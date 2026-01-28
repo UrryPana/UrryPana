@@ -11,7 +11,7 @@
   <li>Java </li>
   <li>SQL</li>
   <li>C</li>
-  <li>Bash/PS</li>
+  <li>Bash/Linux</li>
   <li>HTML/CSS/JS</li></li>
 </ul>
 <!--
