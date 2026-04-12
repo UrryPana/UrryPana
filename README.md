@@ -8,7 +8,7 @@
 <h2>Languages & Tools</h2>
 <ul>
   <li>Python </li>
-  <li>Java </li>
+  <li>Java/C# </li>
   <li>SQL</li>
   <li>C/C++</li>
   <li>Bash/Linux</li>
