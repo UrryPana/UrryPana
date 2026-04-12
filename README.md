@@ -12,11 +12,8 @@
   <li>SQL</li>
   <li>C/C++</li>
   <li>Bash/Linux</li>
-  <li>HTML/CSS/JS</li></li>
-  <li>ReactJs</li>
-  <li>TailwindCss</li>
-  <li>Firebase</li>
-  <li>Rust</li>
+  <li>HTML/CSS/JavaScript</li></li>
+  <li>ReactJs/TailwindCss/Firebase</li>
 </ul>
 <!--
 <h2>Other Stuffs</h2>
