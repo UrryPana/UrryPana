@@ -5,14 +5,18 @@
 </ul>
 <br>
 <!--<h2>Things that I'm studying now:</h2>-->
-<h2>Languages</h2>
+<h2>Languages & Tools</h2>
 <ul>
   <li>Python </li>
   <li>Java </li>
   <li>SQL</li>
-  <li>C</li>
+  <li>C/C++</li>
   <li>Bash/Linux</li>
   <li>HTML/CSS/JS</li></li>
+  <li>ReactJs</li>
+  <li>TailwindCss</li>
+  <li>Firebase</li>
+  <li>Rust</li>
 </ul>
 <!--
 <h2>Other Stuffs</h2>
