@@ -9,8 +9,9 @@
 <ul>
   <li>Python </li>
   <li>Java/C# </li>
-  <li>SQL</li>
+  <li>PostgreSQL</li>
   <li>C/C++</li>
+  <li>Golang</li>
   <li>Bash/Linux</li>
   <li>HTML/CSS/JavaScript</li></li>
   <li>ReactJs/TailwindCss/Firebase</li>
