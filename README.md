@@ -5,6 +5,7 @@
 </ul>
 <br>
 <!--<h2>Things that I'm studying now:</h2>-->
+<img src="https://vercel.app" alt="GitHub Stats" />
 <h2>Languages & Tools</h2>
 <ul>
   <li>Python </li>
