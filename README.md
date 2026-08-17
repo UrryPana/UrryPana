@@ -8,7 +8,7 @@
 <h2>Languages & Tools</h2>
 <ul>
   <li>Python </li>
-  <li>Java/C# </li>
+  <li>C# </li>
   <li>PostgreSQL</li>
   <li>C/C++</li>
   <li>Golang</li>
