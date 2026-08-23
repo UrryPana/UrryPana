@@ -10,11 +10,9 @@
   <li>Python </li>
   <li>C# </li>
   <li>PostgreSQL</li>
-  <li>C/C++</li>
   <li>Golang</li>
+  <li>Kotlin</li>
   <li>Bash/Linux</li>
-  <li>HTML/CSS/JavaScript</li></li>
-  <li>ReactJs/TailwindCss/Firebase</li>
 </ul>
 <!--
 <h2>Other Stuffs</h2>
